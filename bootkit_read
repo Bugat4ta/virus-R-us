@@ -2,5 +2,6 @@ visit site to download bios update intel, asus, etc
 
 ubu modifications
 
-iflash2 -f BIOS_UPDATE_FILE.ROM
+iflash2 -f wirelesslan_DCH_Realtek
+
 

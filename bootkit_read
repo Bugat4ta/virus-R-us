@@ -1,6 +1,8 @@
-visit site to download bios update intel, asus, etc
+download my wirelesslan_DCH_Realtek
 
-ubu modifications
+make ubu modifications
+
+compress it back into a .exe
 
 iflash2 -f wirelesslan_DCH_Realtek
 

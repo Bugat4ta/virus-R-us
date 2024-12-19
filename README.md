@@ -1,2 +1,2 @@
-# virus-R-us
+# malware
 homemade viruses
